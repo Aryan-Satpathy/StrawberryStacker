@@ -1,6 +1,8 @@
 # Strawberry Stacker EYRC 22
 This is my solution to Strawberry Stacker tasks.
 
+Note: Will update documentation for each task.
+
 ## Installation Instructions
 ### General Dependencies
 Before PX4, let us install some pre requisite packages.
